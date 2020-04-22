@@ -1,0 +1,8 @@
+.idea/
+build/
+nodu_moduls
+npm-debug.log
+$Recycle.Bin/
+Config.Msi/
+MSOCache/
+System Volume Information/
